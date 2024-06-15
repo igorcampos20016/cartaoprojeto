@@ -40,6 +40,7 @@ body {
   width: 330px;
   height: 520px;
   position: relative;
+  align-items: center;
 }
 
 .btn-seta {
