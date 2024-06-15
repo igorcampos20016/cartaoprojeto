@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function() {
             indexSelecionado = 0;
         }
         updateSelectedCard();
+        getElementById();
     }
 
     // Função para voltar para o cartão anterior
